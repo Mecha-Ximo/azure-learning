@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
 </head>
 <body>
   <h1>Random Number Demo</h1>
-  <button id="btn">Get random number v2</button>
+  <button id="btn">Get random number v3</button>
   <p id="result"></p>
   <script>
     document.getElementById('btn').addEventListener('click', async () => {
